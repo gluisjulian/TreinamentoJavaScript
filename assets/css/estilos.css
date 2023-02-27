@@ -1,0 +1,17 @@
+body{
+    background-color: darkgray;
+}
+
+.Destaques{
+    color: blue;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
+
+#item{
+    color: white;
+}
